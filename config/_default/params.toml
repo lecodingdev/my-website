@@ -1,10 +1,10 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Alan Tanadi"
+author = "Alan Tanadi"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "Call me Alan"
 profilePicture = "images/profile.jpg"
-keywords = ""
+keywords = "Living by Dreams - LeCodingDev"
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
