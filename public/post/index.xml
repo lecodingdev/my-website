@@ -6,48 +6,71 @@
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 20:02:08 +0200</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Notice Shortcode</title>
-      <link>https://example.com/post/notice-shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <title>WinterComing</title>
+      <link>https://example.com/post/wintercoming/</link>
+      <pubDate>Tue, 31 Aug 2021 20:02:08 +0200</pubDate>
       
-      <guid>https://example.com/post/notice-shortcode/</guid>
+      <guid>https://example.com/post/wintercoming/</guid>
       
-        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+        <description>This Summer The work scheduled for July had to be postponed due to my family accident.</description>
       
     </item>
     
     <item>
-      <title>Series Part 2</title>
-      <link>https://example.com/post/series-part-2/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <title>MidsummerReport</title>
+      <link>https://example.com/post/midsummerreport/</link>
+      <pubDate>Mon, 05 Jul 2021 02:04:22 +0200</pubDate>
       
-      <guid>https://example.com/post/series-part-2/</guid>
+      <guid>https://example.com/post/midsummerreport/</guid>
       
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 1</title>
-      <link>https://example.com/post/series-part-1/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/series-part-1/</guid>
-      
-        <description>A brief guide to how to setup series part 1</description>
+        <description>Generative Text Summary Generative text summaries are characterized by the fact that they do not use sentences that already exist in the original text.</description>
       
     </item>
     
     <item>
-      <title>Redirect</title>
-      <link>https://example.com/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Evaluation</title>
+      <link>https://example.com/post/evaluation/</link>
+      <pubDate>Sat, 19 Jun 2021 15:13:13 +0200</pubDate>
       
-      <guid>https://example.com/post/redirect/</guid>
+      <guid>https://example.com/post/evaluation/</guid>
       
-        <description>Usage of redirectUrl</description>
+        <description>Lesk algorithm rewrite the LESK algorithm from WIKI.
+Evaluation After reviewing the papers, it was established that the evaluation of text generation should be carried out in four directions.</description>
+      
+    </item>
+    
+    <item>
+      <title>PageRankReport (2021/06/07-2021/06/11)</title>
+      <link>https://example.com/post/pagerankreport/</link>
+      <pubDate>Fri, 11 Jun 2021 22:44:21 +0200</pubDate>
+      
+      <guid>https://example.com/post/pagerankreport/</guid>
+      
+        <description>Implemented textrank-based text summarization algorithm</description>
+      
+    </item>
+    
+    <item>
+      <title>TextRank text</title>
+      <link>https://example.com/post/textrank/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/textrank/</guid>
+      
+        <description>Implemented textrank-based text summarization algorithm</description>
+      
+    </item>
+    
+    <item>
+      <title>Week-Report(TextRank)</title>
+      <link>https://example.com/post/week-reporttextrank/</link>
+      <pubDate>Thu, 10 Jun 2021 22:54:24 +0200</pubDate>
+      
+      <guid>https://example.com/post/week-reporttextrank/</guid>
+      
+        <description>Implemented textrank-based text summarization algorithm</description>
       
     </item>
     
@@ -108,10 +131,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
+      <link>https://example.com/post/emoji-support-/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/emoji-support/</guid>
+      <guid>https://example.com/post/emoji-support-/</guid>
       
         <description>Guide to emoji usage in Hugo</description>
       

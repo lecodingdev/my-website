@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>textrank on My blog</title>
+    <link>https://example.com/tags/textrank/</link>
+    <description>Recent content in textrank on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Jun 2021 15:13:13 +0200</lastBuildDate><atom:link href="https://example.com/tags/textrank/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluation</title>
+      <link>https://example.com/post/evaluation/</link>
+      <pubDate>Sat, 19 Jun 2021 15:13:13 +0200</pubDate>
+      
+      <guid>https://example.com/post/evaluation/</guid>
+      
+        <description>Lesk algorithm rewrite the LESK algorithm from WIKI.
+Evaluation After reviewing the papers, it was established that the evaluation of text generation should be carried out in four directions.</description>
+      
+    </item>
+    
+    <item>
+      <title>PageRankReport (2021/06/07-2021/06/11)</title>
+      <link>https://example.com/post/pagerankreport/</link>
+      <pubDate>Fri, 11 Jun 2021 22:44:21 +0200</pubDate>
+      
+      <guid>https://example.com/post/pagerankreport/</guid>
+      
+        <description>Implemented textrank-based text summarization algorithm</description>
+      
+    </item>
+    
+    <item>
+      <title>TextRank text</title>
+      <link>https://example.com/post/textrank/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/textrank/</guid>
+      
+        <description>Implemented textrank-based text summarization algorithm</description>
+      
+    </item>
+    
+    <item>
+      <title>Week-Report(TextRank)</title>
+      <link>https://example.com/post/week-reporttextrank/</link>
+      <pubDate>Thu, 10 Jun 2021 22:54:24 +0200</pubDate>
+      
+      <guid>https://example.com/post/week-reporttextrank/</guid>
+      
+        <description>Implemented textrank-based text summarization algorithm</description>
+      
+    </item>
+    
+  </channel>
+</rss>

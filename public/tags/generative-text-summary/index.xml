@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative Text Summary on My blog</title>
+    <link>https://example.com/tags/generative-text-summary/</link>
+    <description>Recent content in Generative Text Summary on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Aug 2021 20:02:08 +0200</lastBuildDate><atom:link href="https://example.com/tags/generative-text-summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WinterComing</title>
+      <link>https://example.com/post/wintercoming/</link>
+      <pubDate>Tue, 31 Aug 2021 20:02:08 +0200</pubDate>
+      
+      <guid>https://example.com/post/wintercoming/</guid>
+      
+        <description>This Summer The work scheduled for July had to be postponed due to my family accident.</description>
+      
+    </item>
+    
+    <item>
+      <title>MidsummerReport</title>
+      <link>https://example.com/post/midsummerreport/</link>
+      <pubDate>Mon, 05 Jul 2021 02:04:22 +0200</pubDate>
+      
+      <guid>https://example.com/post/midsummerreport/</guid>
+      
+        <description>Generative Text Summary Generative text summaries are characterized by the fact that they do not use sentences that already exist in the original text.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
