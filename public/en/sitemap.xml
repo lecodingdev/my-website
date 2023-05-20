@@ -15,6 +15,9 @@
                 href="https://example.com/"
                 />
   </url><url>
+    <loc>https://example.com/post/alongjourney/</loc>
+    <lastmod>2021-08-31T20:02:08+02:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <lastmod>2021-08-31T20:02:08+02:00</lastmod>
     <xhtml:link
@@ -28,13 +31,13 @@
                 href="https://example.com/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tags/generative-text-summary/</loc>
+    <loc>https://example.com/tags/circle-of-life/</loc>
     <lastmod>2021-08-31T20:02:08+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/lcm/</loc>
+    <loc>https://example.com/categories/life/</loc>
     <lastmod>2021-08-31T20:02:08+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/motor-design/</loc>
+    <loc>https://example.com/tags/motivation/</loc>
     <lastmod>2021-08-31T20:02:08+02:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
@@ -63,22 +66,28 @@
                 href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/text-summarization/</loc>
-    <lastmod>2021-08-31T20:02:08+02:00</lastmod>
+    <loc>https://example.com/tags/life-of-circle/</loc>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/thesis/</loc>
-    <lastmod>2021-08-31T20:02:08+02:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/wintercoming/</loc>
-    <lastmod>2021-08-31T20:02:08+02:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/midsummerreport/</loc>
+    <loc>https://example.com/post/livingbydreams/</loc>
     <lastmod>2021-07-05T02:04:22+02:00</lastmod>
   </url><url>
     <loc>https://example.com/post/evaluation/</loc>
     <lastmod>2021-06-19T15:13:13+02:00</lastmod>
   </url><url>
+    <loc>https://example.com/categories/lcm/</loc>
+    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/motor-design/</loc>
+    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/text-summarization/</loc>
+    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/textrank/</loc>
+    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/thesis/</loc>
     <lastmod>2021-06-19T15:13:13+02:00</lastmod>
   </url><url>
     <loc>https://example.com/post/pagerankreport/</loc>

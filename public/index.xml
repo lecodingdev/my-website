@@ -8,24 +8,24 @@
     <language>en</language>
     <lastBuildDate>Tue, 31 Aug 2021 20:02:08 +0200</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>WinterComing</title>
-      <link>https://example.com/post/wintercoming/</link>
+      <title>A Long Journey</title>
+      <link>https://example.com/post/alongjourney/</link>
       <pubDate>Tue, 31 Aug 2021 20:02:08 +0200</pubDate>
       
-      <guid>https://example.com/post/wintercoming/</guid>
+      <guid>https://example.com/post/alongjourney/</guid>
       
-        <description>This Summer The work scheduled for July had to be postponed due to my family accident.</description>
+        <description></description>
       
     </item>
     
     <item>
-      <title>MidsummerReport</title>
-      <link>https://example.com/post/midsummerreport/</link>
+      <title>Living by Dreams</title>
+      <link>https://example.com/post/livingbydreams/</link>
       <pubDate>Mon, 05 Jul 2021 02:04:22 +0200</pubDate>
       
-      <guid>https://example.com/post/midsummerreport/</guid>
+      <guid>https://example.com/post/livingbydreams/</guid>
       
-        <description>Generative Text Summary Generative text summaries are characterized by the fact that they do not use sentences that already exist in the original text.</description>
+        <description></description>
       
     </item>
     
